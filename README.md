@@ -1,5 +1,5 @@
 
-![snake gif](https://github.com/Rajashivanshu1234/Shivanshu-sharmaa/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Shivanshu-sharmaa/Shivanshu-sharmaa/blob/output/github-snake-dark.svg)
 # 💫 About Me:
 ## 🚀 Currently Working On<br><br>- 💻 Working as a **Frontend Developer**, building responsive and user-friendly web applications.<br>- 🌱 Currently learning **Backend Development** with **Node.js, Express.js, MongoDB, and REST APIs**.<br>- 🤝 Looking for help with **Backend Development**, API design, authentication, and best practices.<br>- 📚 Continuously improving my skills in **React.js, JavaScript, and Full-Stack Development**.<br>- 🎯 Goal: To become a **Full-Stack Developer** and contribute to impactful open-source projects.<br><br>## 🛠️ Technologies I'm Working With <br><br>- ⚛️ React.js<br>- 🌐 HTML & CSS<br>- 🎨 Responsive Web Design<br>- 💻 JavaScript<br>- 🔥 Git & GitHub<br>- 🚀 Frontend Development<br><br>## ⚡ Fun Fact<br><br>I enjoy turning creative UI ideas into responsive web applications and love exploring new technologies that make the web faster, cleaner, and more interactive.<br><br>## 🎯 Career Goal<br><br>To become a skilled **Full-Stack Developer**, build scalable web applications, contribute to open-source projects, and create products that solve real-world problems.
 
